@@ -1,0 +1,6 @@
+Visited Nodes:
+A -> B -> C
+
+Visited Edges:
+A -> B
+B -> C
